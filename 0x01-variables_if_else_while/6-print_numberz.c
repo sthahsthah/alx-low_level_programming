@@ -1,10 +1,9 @@
-#inlude<stdio.h>
+#include<stdio.h>
 
-/*
- * main - entry point
+/**
+ * main - Entry point
  *
- *
- * return: success(0)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
