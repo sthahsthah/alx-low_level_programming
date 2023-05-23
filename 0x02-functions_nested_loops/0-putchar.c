@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- * main - entry point
- * description - Prints Print Putchar
- * return - success
+ * main - Entry Point
+ * Description: Prints _putchar, followed by a new line.
+ * Return: Always 0
  */
 
 int main(void)
