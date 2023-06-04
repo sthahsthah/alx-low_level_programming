@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 /**
- * _isdigit - entryb point
- * @c: checks for a digit
+ * _isdigit - entry point
+ * @c: number to be checked
  * Return: 1 if c is a digit else 0
  */
 
